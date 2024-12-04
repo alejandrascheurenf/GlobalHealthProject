@@ -18,15 +18,8 @@ Analyze global health data to identify disparities, trends, and areas of concern
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Scikit-learn (for predictive modeling)
 
 ## Data Set
-The dataset used for this analysis is publicly available on Kaggle and contains information on various global health indicators. It includes data on life expectancy, healthcare resources, mortality rates, and more.
+The dataset used for this analysis is publicly available on [Kaggle](https://www.kaggle.com/datasets/martinagalasso/global-health-and-development-2012-2021)
 
-## Methodology
-This project follows these key steps:
-1. **Data Cleaning and Preparation:** Address missing data, inconsistencies, and outliers.
-2. **Exploratory Data Analysis (EDA):** Use summary statistics and visualizations to uncover trends and patterns.
-3. **Statistical Analysis:** Examine relationships between variables such as healthcare resources and health outcomes.
-4. **Visualization:** Create engaging visualizations to effectively communicate insights.
-5. **Predictive Modeling (Optional):** Use machine learning models to predict specific health outcomes.
 
 ## Findings
-(Include a brief summary of your key findings here after completing the analysis.)
+(Include a brief summary of findings)
