@@ -1,1 +1,23 @@
+Author: Alejandra Scheuren
+Date: 4 Dec 2024
 
+# Exploratory Data Analysis on Global Health
+
+## Introduction
+Global health is a critical area of study, focusing on understanding health outcomes and disparities across different regions. This analysis aims to identify trends, disparities, and areas of improvement in global health indicators such as life expectancy, healthcare access, and disease prevalence.
+
+Our task is to uncover insights into weak areas and opportunities to enhance global health outcomes.
+
+## Business Questions
+- Which regions have the highest and lowest life expectancy?
+- What are the key factors influencing high mortality rates?
+- How do healthcare resources correlate with health outcomes across different countries?
+- Are there significant trends in air pollution and its impact on life expectancy?
+- Which diseases are most prevalent in different regions, and how have their rates changed over time?
+
+## Who is Reading this Analysis?
+- Policymakers and global health organizations interested in actionable insights to improve health outcomes.
+- Researchers and analysts seeking to understand disparities in health indicators globally.
+- General readers looking for trends and statistics in global health presented in a clear, layman-friendly way.
+
+This analysis focuses on uncovering actionable insights to improve global health outcomes, reduce disparities, and provide data-driven recommendations.
